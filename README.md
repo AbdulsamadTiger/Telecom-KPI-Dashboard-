@@ -19,4 +19,4 @@ Conditonal Formatting
 PowerBI Dashboard
 
 GOAL
-Monito network performance for Huawei telecom sites in Victoria Island Lagos.
+Monitor network performance for Huawei telecom sites in Victoria Island Lagos.
